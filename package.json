@@ -1,0 +1,25 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "friendFinder app",
+  "main": "server.js",
+  "dependencies": {
+    "node": "^13.3.0",
+    "pkg.json": "^2.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daphnejf/FriendFinder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daphnejf/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/daphnejf/FriendFinder#readme"
+}
